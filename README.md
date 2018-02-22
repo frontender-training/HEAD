@@ -3,16 +3,17 @@
 [![CC0](https://img.shields.io/badge/license-CC0-green.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![Contributors](https://img.shields.io/github/contributors/joshbuchea/head.svg)](https://github.com/joshbuchea/HEAD/graphs/contributors)
 
-A list of everything that \*could\* go in the `<head>` of your document
+Список всего, что может находится в `<head>` вашего документа
 
-## Table of Contents
+Оригинал располагается [тут] (https://github.com/joshbuchea/HEAD)
 
-- [Recommended Minimum](#recommended-minimum)
-- [Elements](#elements)
+## Содержание
+- [Рекомедуемый минимум](#рекомедуемый-минимум)
+- [Элементы](#элементы)
 - [Meta](#meta)
 - [Link](#link)
-- [Icons](#icons)
-- [Social](#social)
+- [Иконки](#иконки)
+- [Социальные сети](#социальные-сети)
   - [Facebook Open Graph](#facebook-open-graph)
   - [Twitter Card](#twitter-card)
   - [Twitter Privacy](#twitter-privacy)
@@ -20,26 +21,26 @@ A list of everything that \*could\* go in the `<head>` of your document
   - [Pinterest](#pinterest)
   - [Facebook Instant Articles](#facebook-instant-articles)
   - [OEmbed](#oembed)
-- [Browsers / Platforms](#browsers--platforms)
+- [Браузеры / Операционные системы](#браузеры-/-операционные-системы)
   - [Apple iOS](#apple-ios)
   - [Google Android](#google-android)
   - [Google Chrome](#google-chrome)
   - [Microsoft Internet Explorer](#microsoft-internet-explorer)
-- [Browsers (Chinese)](#browsers-chinese)
+- [Браузеры (Китайские)](#браузеры-(китайские))
   - [360 Browser](#360-browser)
   - [QQ Mobile Browser](#qq-mobile-browser)
   - [UC Mobile Browser](#uc-mobile-browser)
-- [App Links](#app-links)
-- [Other Resources](#other-resources)
-- [Related Projects](#related-projects)
-- [Other Formats](#other-formats)
-- [Translations](#translations)
-- [Contributing](#contributing)
-  - [Contributors](#contributors)
-- [Author](#author)
-- [License](#license)
+- [Ссылки на приложения](#ссылки-на-приложения)
+- [Другие ресурсы](#другие-ресурсы)
+- [Связанные проекты](#связанные-проекты)
+- [Другие форматы](#другие-форматы)
+- [Переводы](#переводы)
+- [Сотрудничество](#сотрудничество)
+  - [Вкладчики](#вкладчики)
+- [Автор](#автор)
+- [Лицензия](#лицензия)
 
-## Recommended Minimum
+## Рекомедуемый минимум
 
 Below are the essential elements for any web document (websites/apps):
 
@@ -61,7 +62,7 @@ Below are the essential elements for any web document (websites/apps):
 
 **[⬆ back to top](#table-of-contents)**
 
-## Elements
+## Элементы
 
 Valid `<head>` elements include `meta`, `link`, `title`, `style`, `script`, `noscript`, and `base`.
 
@@ -262,7 +263,7 @@ These elements provide information for how a document should be perceived, and r
 
 **[⬆ back to top](#table-of-contents)**
 
-## Icons
+## Иконки
 
 ```html
 <!-- For IE 10 and below -->
@@ -285,7 +286,7 @@ These elements provide information for how a document should be perceived, and r
 
 **[⬆ back to top](#table-of-contents)**
 
-## Social
+## Социальные сети
 
 ### Facebook Open Graph
 
@@ -382,7 +383,7 @@ Pinterest lets you prevent people from saving things from your website, accordin
 
 **[⬆ back to top](#table-of-contents)**
 
-## Browsers / Platforms
+## Браузеры / Операционные системы
 
 ### Apple iOS
 
@@ -469,7 +470,7 @@ Pinterest lets you prevent people from saving things from your website, accordin
 
 **[⬆ back to top](#table-of-contents)**
 
-## Browsers (Chinese)
+## Браузеры (Китайские)
 
 ### 360 Browser
 
@@ -520,7 +521,7 @@ Pinterest lets you prevent people from saving things from your website, accordin
 
 **[⬆ back to top](#table-of-contents)**
 
-## App Links
+## Ссылки на приложения
 
 ```html
 <!-- iOS -->
@@ -541,14 +542,14 @@ Pinterest lets you prevent people from saving things from your website, accordin
 
 **[⬆ back to top](#table-of-contents)**
 
-## Other Resources
+## Другие ресурсы
 
 - 📖 [HTML5 Boilerplate Docs: The HTML](https://github.com/h5bp/html5-boilerplate/blob/master/dist/doc/html.md)
 - 📖 [HTML5 Boilerplate Docs: Extend and customize](https://github.com/h5bp/html5-boilerplate/blob/master/dist/doc/extend.md)
 
 **[⬆ back to top](#table-of-contents)**
 
-## Related Projects
+## Связанные проекты
 
 - [Atom HTML Head Snippets](https://github.com/joshbuchea/atom-html-head-snippets) - Atom package for `HEAD` snippets
 - [Sublime Text HTML Head Snippets](https://github.com/marcobiedermann/sublime-head-snippets) - Sublime Text package for `HEAD` snippets
@@ -557,13 +558,13 @@ Pinterest lets you prevent people from saving things from your website, accordin
 
 **[⬆ back to top](#table-of-contents)**
 
-## Other Formats
+## Другие форматы
 
 - 📄 [PDF](https://gitprint.com/joshbuchea/HEAD/blob/master/README.md)
 
 **[⬆ back to top](#table-of-contents)**
 
-## Translations
+## Переводы
 
 - 🇧🇷 [Brazilian Portuguese](https://github.com/Webschool-io/HEAD)
 - 🇨🇳 [Chinese (Simplified)](https://github.com/Amery2010/HEAD)
@@ -575,11 +576,11 @@ Pinterest lets you prevent people from saving things from your website, accordin
 
 **[⬆ back to top](#table-of-contents)**
 
-## Contributing
+## Сотрудничество
 
 **Open an issue or a pull request to suggest changes or additions.**
 
-### Guide
+### руководство
 
 The **HEAD** repository consists of two branches:
 
@@ -600,15 +601,15 @@ This branch is responsible for the [gethead.info](https://gethead.info/) website
 
 You may want to go through the [Jekyll Docs](https://jekyllrb.com/docs/home/) and understand how Jekyll works before working on this branch.
 
-### Contributors
+### Вкладчики
 
 Check out all the super awesome [contributors](https://github.com/joshbuchea/HEAD/graphs/contributors).
 
-## Author
+## Автор
 
 **[Josh Buchea](https://joshbuchea.com/)**
 
-## License
+## Лицензия
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
