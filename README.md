@@ -8,7 +8,7 @@
 Оригинал располагается [тут](https://github.com/joshbuchea/HEAD)
 
 ## Содержание
-- [Рекомедуемый минимум](#recommended-minimum)
+- [Рекомедуемый минимум](#Рекомедуемый-минимум)
 - [Элементы](#элементы)
 - [Meta](#meta)
 - [Link](#link)
@@ -40,7 +40,7 @@
 - [Автор](#автор)
 - [Лицензия](#лицензия)
 
-## Рекомедуемый минимум {#recommended-minimum}
+## Рекомедуемый минимум
 
 Below are the essential elements for any web document (websites/apps):
 
@@ -60,7 +60,7 @@ Below are the essential elements for any web document (websites/apps):
 <title>Page Title</title>
 ```
 
-**[⬆ Назад к содержанию](#содержание)**
+**[⬆ Назад к содержанию](#Содержание)**
 
 ## Элементы
 
@@ -100,7 +100,7 @@ These elements provide information for how a document should be perceived, and r
 </noscript>
 ```
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆ Назад к содержанию](#Содержание)**
 
 ## Meta
 
@@ -185,7 +185,7 @@ These elements provide information for how a document should be perceived, and r
 - 📖 [ICBM on Wikipedia](https://en.wikipedia.org/wiki/ICBM_address#Modern_use)
 - 📖 [Geotagging on Wikipedia](https://en.wikipedia.org/wiki/Geotagging#HTML_pages)
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆ Назад к содержанию](#Содержание)**
 
 ## Link
 
@@ -261,7 +261,7 @@ These elements provide information for how a document should be perceived, and r
 
 - 📖 [Link Relations](https://www.iana.org/assignments/link-relations/link-relations.xhtml)
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆ Назад к содержанию](#Содержание)**
 
 ## Иконки
 
@@ -284,7 +284,7 @@ These elements provide information for how a document should be perceived, and r
 - 📖 [Favicon Cheat Sheet](https://github.com/audreyr/favicon-cheat-sheet)
 - 📖 [Icons & Browser Colors](https://developers.google.com/web/fundamentals/design-and-ux/browser-customization/)
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆ Назад к содержанию](#Содержание)**
 
 ## Социальные сети
 
@@ -381,7 +381,7 @@ Pinterest lets you prevent people from saving things from your website, accordin
 
 - 📖 [oEmbed format](http://oembed.com/)
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆ Назад к содержанию](#Содержание)**
 
 ## Браузеры / Операционные системы
 
@@ -468,7 +468,7 @@ Pinterest lets you prevent people from saving things from your website, accordin
 <meta name="msapplication-task-separator" content="1">
 ```
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆ Назад к содержанию](#Содержание)**
 
 ## Браузеры (Китайские)
 
@@ -519,7 +519,7 @@ Pinterest lets you prevent people from saving things from your website, accordin
 
 - 📖 [UC Browser Docs](http://www.uc.cn/download/UCBrowser_U3_API.doc)
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆ Назад к содержанию](#Содержание)**
 
 ## Ссылки на приложения
 
@@ -540,14 +540,14 @@ Pinterest lets you prevent people from saving things from your website, accordin
 
 - 📖 [App Links](http://applinks.org/documentation/)
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆ Назад к содержанию](#Содержание)**
 
 ## Другие ресурсы
 
 - 📖 [HTML5 Boilerplate Docs: The HTML](https://github.com/h5bp/html5-boilerplate/blob/master/dist/doc/html.md)
 - 📖 [HTML5 Boilerplate Docs: Extend and customize](https://github.com/h5bp/html5-boilerplate/blob/master/dist/doc/extend.md)
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆ Назад к содержанию](#Содержание)**
 
 ## Связанные проекты
 
@@ -556,13 +556,13 @@ Pinterest lets you prevent people from saving things from your website, accordin
 - [head-it](https://github.com/hemanth/head-it) - CLI interface for `HEAD` snippets
 - [vue-head](https://github.com/ktquez/vue-head) - Manipulating the meta information of the `HEAD` tag for Vue.js
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆ Назад к содержанию](#Содержание)**
 
 ## Другие форматы
 
 - 📄 [PDF](https://gitprint.com/joshbuchea/HEAD/blob/master/README.md)
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆ Назад к содержанию](#Содержание)**
 
 ## Переводы
 
@@ -574,7 +574,7 @@ Pinterest lets you prevent people from saving things from your website, accordin
 - 🇷🇺 [Russian/Русский](https://github.com/Konfuze/HEAD)
 - 🇹🇷 [Turkish/Türkçe](https://github.com/mkg0/HEAD)
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆ Назад к содержанию](#Содержание)**
 
 ## Сотрудничество
 
@@ -613,4 +613,4 @@ Check out all the super awesome [contributors](https://github.com/joshbuchea/HEA
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆ Назад к содержанию](#Содержание)**
