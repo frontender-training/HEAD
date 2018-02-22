@@ -5,10 +5,10 @@
 
 Список всего, что может находится в `<head>` вашего документа
 
-Оригинал располагается [тут] (https://github.com/joshbuchea/HEAD)
+Оригинал располагается [тут](https://github.com/joshbuchea/HEAD)
 
 ## Содержание
-- [Рекомедуемый минимум](#рекомедуемый-минимум)
+- [Рекомедуемый минимум](#recommended-minimum)
 - [Элементы](#элементы)
 - [Meta](#meta)
 - [Link](#link)
@@ -40,7 +40,7 @@
 - [Автор](#автор)
 - [Лицензия](#лицензия)
 
-## Рекомедуемый минимум
+## Рекомедуемый минимум {#recommended-minimum}
 
 Below are the essential elements for any web document (websites/apps):
 
@@ -60,7 +60,7 @@ Below are the essential elements for any web document (websites/apps):
 <title>Page Title</title>
 ```
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆ Назад к содержанию](#содержание)**
 
 ## Элементы
 
